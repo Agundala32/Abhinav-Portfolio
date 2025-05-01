@@ -26,3 +26,21 @@ To predict the value of insurance claims based on available features and enhance
 ## 🧪 How to Run
 1. Clone the repository
 2. Navigate to the project folder:
+3. Run the Jupyter Notebook or `streamlit` app:
+or
+
+## 📄 Files Included
+- `Project_2.ipynb`: Main notebook with modeling
+- `ridge_model.pkl`, `linear_model.pkl`: Saved models
+- `Updated_Claimants_Dataset.csv`: Preprocessed dataset
+- `sweetviz_report.html`: Auto-generated EDA
+- `Presentation.pptx`: Summary presentation
+
+## ✅ Results
+- Achieved an R² score of ~XX% using Ridge Regression
+- Insights into top contributing features
+
+## 📌 Author
+- Abhinav Agundala  
+-abhinav.gundala@gmail.com
+
